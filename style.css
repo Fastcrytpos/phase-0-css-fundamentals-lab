@@ -2,4 +2,73 @@ body {
   width: 100%;
   height: 100%;
   margin: 0;
+  
+}
+nav{
+  display: flex;
+  align-items: center;
+  width: 50%;
+  margin-left: 36%;
+  
+nav, a{
+  text-align: center; 
+  background-color: grey;
+  padding-left: 10px;
+  padding-right: 10px;
+  margin-right: 1%;
+  margin-left: 1%;
+  justify-content:space-around;
+  gap: 2.6rem;
+
+  
+}
+
+  
+}
+h1{
+  font-weight: 800px;
+  text-align: center;
+  
+}
+#featured-property figure img{
+  width: 60%;
+  height: auto;
+  margin-left: 20%;
+  margin-right: 20%;
+  
+}
+
+#featured-property figure figcaption{
+  text-align: center;
+  margin: 0 auto;
+  image-orientation: unset;
+
+}
+
+#featured-property p{
+  
+
+  text-align: center;
+  max-width: 800px;
+  margin: 0 auto;
+  margin-bottom: 20px;
+  
+}
+#details {
+  overflow: hidden;
+}
+#details {
+  overflow: hidden;
+}
+
+#details div{
+  background-color: red;
+  text-align: center;
+  padding: 20px;
+  box-sizing: border-box;
+  width: 25%;
+  float: left;
+  
+
+
 }
